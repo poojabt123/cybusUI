@@ -1,0 +1,17 @@
+{
+  "app": {
+    "host":"localhost",
+    "port":"4547",
+    "routePath":"/var/www/html/node/cybus_km/api/v1/stack/routes/routes",
+    "BASEURL":"http://localhost:4547",
+    "FILEWEBURL":"http://localhost:4548/Attachments/",
+    "FILEUPLOADPATH":"./Attachments/",
+    "DEBUG":"true"
+  },
+  "db":{
+    "server":"",
+    "port":"",
+    "user":"",
+    "password":""
+  }
+}
