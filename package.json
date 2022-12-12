@@ -14,7 +14,7 @@
     "bootstrap": "^4.0.0",
     "chart.js": "^2.7.1",
     "config": "^1.29.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "fast-xml-parser": "^3.12.16",
     "he": "^1.2.0",
